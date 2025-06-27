@@ -11,7 +11,13 @@
   "license": "ISC",
   "dependencies": {
     "aws-sdk": "^2.1692.0",
+    "cors": "^2.8.5",
     "express": "^5.1.0",
+    "json2csv": "^6.0.0-alpha.2",
+    "raw-body": "^3.0.0",
     "serverless-http": "^3.2.0"
+  },
+  "devDependencies": {
+    "serverless-offline": "^14.4.0"
   }
 }
